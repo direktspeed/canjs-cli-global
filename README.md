@@ -35,6 +35,8 @@ and provides a [Guide guide] for using them together to build an "amazing" appli
 
 ### Features ([Features main article])
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/canjs-cli-global.svg)](https://greenkeeper.io/)
+
 _Application features:_
 
 - Isomorphic (same code on server and client).
